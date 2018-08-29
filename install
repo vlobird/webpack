@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo apt install libjpeg-progs gifsicle optipng advancecomp libhtml-clean-perl
+sudo cp webpack.sh /usr/bin/webpack
+sudo chmod +x /usr/bin/webpack
